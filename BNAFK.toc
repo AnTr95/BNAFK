@@ -1,0 +1,7 @@
+## Interface: 60200
+## Title: BNAFK
+## Version: v1.0
+## Notes: Replies to BNWhispers if player is AFK.
+## Author: Ant-Kazzak
+
+BNAFK.lua
